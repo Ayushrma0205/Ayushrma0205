@@ -1,0 +1,48 @@
+{
+  "displayitems": [
+    {
+      "id": "3",
+      "image": "https://5.imimg.com/data5/SELLER/Default/2024/4/407077640/BW/LW/ZX/79886919/pizza-kulhad-1000x1000.jpg",
+      "name": "Kulhadh Pizza",
+      "price": 150,
+      "veg__non_veg": "Veg",
+      "size": "Small",
+      "ingredients": "Cheese,Onion,Capsicum,Tamoto,Meyo,Chilli,Origano",
+      "cheese": "Extra",
+      "description": "A delicious kulhadh pizza with a crispy crust"
+    },
+    {
+      "id": "4",
+      "image": "https://www.yummytummyaarthi.com/wp-content/uploads/2015/11/chicken-pizza-1.jpeg",
+      "name": "Chicken Pizza",
+      "price": 400,
+      "veg__non_veg": "Non Veg",
+      "size": "Medium",
+      "ingredients": "Chicken,Onion,Capsicum,Tamoto,Meyo,Chilli,Origano",
+      "cheese": "No",
+      "description": "A delicious chicken pizza with a crispy crust"
+    },
+    {
+      "id": "5",
+      "image": "https://product-assets.faasos.io/eatsure/production/veg-cheese-burst-pizza.jpeg",
+      "name": "Cheese Burst Pizza",
+      "price": 200,
+      "vveg__non_veg": "Non Veg",
+      "size": "Small",
+      "ingredients": "Cheese,Onion,Capsicum,Tamoto,Meyo,Chilli,Origano,Chicken",
+      "cheese": "Extra",
+      "description": "A delicious cheese burst pizza with a crispy crust"
+    },
+    {
+      "id": "512f",
+      "image": "https://www.thespruceeats.com/thmb/GaDqZ9mom5CEScSFIGpSo_HAho0=/5970x3877/filters:fill(auto,1)/mexican-pizza-482050-step-10-3c22fd68afc44e02a42f01a5e34ab886.jpg",
+      "name": "Mexican Pizza",
+      "price": 1000,
+      "veg__non_veg": "Veg",
+      "size": "Large",
+      "ingredients": "Corn, Cheese, Meyo",
+      "cheese": "Extra",
+      "description": "Nice"
+    }
+  ]
+}
