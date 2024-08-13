@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Pizza-Store-react/static/css/main.e6c13ad2.css",
+    "main.js": "/Pizza-Store-react/static/js/main.aaf3052f.js",
+    "static/js/453.2e505874.chunk.js": "/Pizza-Store-react/static/js/453.2e505874.chunk.js",
+    "index.html": "/Pizza-Store-react/index.html",
+    "main.e6c13ad2.css.map": "/Pizza-Store-react/static/css/main.e6c13ad2.css.map",
+    "main.aaf3052f.js.map": "/Pizza-Store-react/static/js/main.aaf3052f.js.map",
+    "453.2e505874.chunk.js.map": "/Pizza-Store-react/static/js/453.2e505874.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.aaf3052f.js"
+  ]
+}
